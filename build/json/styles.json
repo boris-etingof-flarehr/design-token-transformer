@@ -140,6 +140,7 @@
   "ColorViolet80": "#f0eeff",
   "ColorWhite": "#ffffff",
   "ColorBlack": "#000000",
+  "ColorPbacolor": "#ff0000",
   "EffectSh10bottomType": "dropShadow",
   "EffectSh10bottomRadius": 5,
   "EffectSh10bottomColor": "rgba(166, 172, 177, 0.18)",
