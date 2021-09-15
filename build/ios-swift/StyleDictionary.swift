@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Wed, 15 Sep 2021 03:35:28 GMT
+// Generated on Wed, 15 Sep 2021 06:15:40 GMT
 
 
 import UIKit
@@ -59,7 +59,7 @@ public class StyleDictionary {
     public static let colorOrange60 = UIColor(red: 0.980, green: 0.776, blue: 0.729, alpha: 1)
     public static let colorOrange70 = UIColor(red: 0.988, green: 0.886, blue: 0.863, alpha: 1)
     public static let colorOrange80 = UIColor(red: 0.996, green: 0.941, blue: 0.929, alpha: 1)
-    public static let colorPbacolor = UIColor(red: 1.000, green: 0.000, blue: 0.000, alpha: 1)
+    public static let colorPbacolor = UIColor(red: 0.000, green: 0.102, blue: 1.000, alpha: 1)
     public static let colorPurple10 = UIColor(red: 0.545, green: 0.063, blue: 0.475, alpha: 1)
     public static let colorPurple20 = UIColor(red: 0.627, green: 0.075, blue: 0.557, alpha: 1)
     public static let colorPurple30 = UIColor(red: 0.694, green: 0.239, blue: 0.675, alpha: 1)
