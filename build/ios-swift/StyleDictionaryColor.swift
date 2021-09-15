@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Wed, 15 Sep 2021 01:48:49 GMT
+// Generated on Wed, 15 Sep 2021 01:57:22 GMT
 
 
 import UIKit
@@ -75,6 +75,11 @@ public enum StyleDictionaryColor {
     public static let red60 = UIColor(red: 1.000, green: 0.816, blue: 0.788, alpha: 1)
     public static let red70 = UIColor(red: 1.000, green: 0.890, blue: 0.871, alpha: 1)
     public static let red80 = UIColor(red: 1.000, green: 0.941, blue: 0.929, alpha: 1)
+    public static let sh10bottomColor = rgba(166, 172, 177, 0.18)
+    public static let sh10bottomborder0Color = rgba(166, 172, 177, 0.18)
+    public static let sh10bottomborder1Color = rgba(210, 214, 216, 1)
+    public static let sh20bottomColor = rgba(121, 131, 138, 0.2)
+    public static let sh30bottomColor = rgba(121, 131, 138, 0.2)
     public static let violet10 = UIColor(red: 0.188, green: 0.133, blue: 0.816, alpha: 1)
     public static let violet20 = UIColor(red: 0.267, green: 0.204, blue: 0.922, alpha: 1)
     public static let violet30 = UIColor(red: 0.345, green: 0.278, blue: 1.000, alpha: 1)

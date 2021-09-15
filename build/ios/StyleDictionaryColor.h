@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Wed, 15 Sep 2021 01:48:49 GMT
+// Generated on Wed, 15 Sep 2021 01:57:22 GMT
 
 
 #import <UIKit/UIKit.h>
@@ -91,7 +91,12 @@ ColorViolet60,
 ColorViolet70,
 ColorViolet80,
 ColorWhite,
-ColorBlack
+ColorBlack,
+EffectSh10bottomColor,
+EffectSh20bottomColor,
+EffectSh30bottomColor,
+EffectSh10bottomborder0Color,
+EffectSh10bottomborder1Color
 };
 
 @interface StyleDictionaryColor : NSObject
