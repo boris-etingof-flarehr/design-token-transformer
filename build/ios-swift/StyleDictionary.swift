@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Wed, 15 Sep 2021 01:57:22 GMT
+// Generated on Wed, 15 Sep 2021 01:59:34 GMT
 
 
 import UIKit
@@ -122,4 +122,63 @@ public class StyleDictionary {
     public static let effectSh30bottomRadius = 12
     public static let effectSh30bottomSpread = 4
     public static let effectSh30bottomType = dropShadow
+    public static let radiiBr100RadiiBottomLeft = 999
+    public static let radiiBr100RadiiBottomRight = 999
+    public static let radiiBr100RadiiTopLeft = 999
+    public static let radiiBr100RadiiTopRight = 999
+    public static let radiiBr100Radius = 999
+    public static let radiiBr100RadiusType = single
+    public static let radiiBr100Smoothing = 0
+    public static let radiiBr10RadiiBottomLeft = 3
+    public static let radiiBr10RadiiBottomRight = 3
+    public static let radiiBr10RadiiTopLeft = 3
+    public static let radiiBr10RadiiTopRight = 3
+    public static let radiiBr10Radius = 3
+    public static let radiiBr10RadiusType = single
+    public static let radiiBr10Smoothing = 0
+    public static let radiiBr20RadiiBottomLeft = 6
+    public static let radiiBr20RadiiBottomRight = 6
+    public static let radiiBr20RadiiTopLeft = 6
+    public static let radiiBr20RadiiTopRight = 6
+    public static let radiiBr20Radius = 6
+    public static let radiiBr20RadiusType = single
+    public static let radiiBr20Smoothing = 0
+    public static let radiiBr30RadiiBottomLeft = 9
+    public static let radiiBr30RadiiBottomRight = 9
+    public static let radiiBr30RadiiTopLeft = 9
+    public static let radiiBr30RadiiTopRight = 9
+    public static let radiiBr30Radius = 9
+    public static let radiiBr30RadiusType = single
+    public static let radiiBr30Smoothing = 0
+    public static let radiiBr40RadiiBottomLeft = 12
+    public static let radiiBr40RadiiBottomRight = 12
+    public static let radiiBr40RadiiTopLeft = 12
+    public static let radiiBr40RadiiTopRight = 12
+    public static let radiiBr40Radius = 12
+    public static let radiiBr40RadiusType = single
+    public static let radiiBr40Smoothing = 0
+    public static let radiiBr50RadiiBottomLeft = 15
+    public static let radiiBr50RadiiBottomRight = 15
+    public static let radiiBr50RadiiTopLeft = 15
+    public static let radiiBr50RadiiTopRight = 15
+    public static let radiiBr50Radius = 15
+    public static let radiiBr50RadiusType = single
+    public static let radiiBr50Smoothing = 0
+    public static let radiiBr60RadiiBottomLeft = 20
+    public static let radiiBr60RadiiBottomRight = 20
+    public static let radiiBr60RadiiTopLeft = 20
+    public static let radiiBr60RadiiTopRight = 20
+    public static let radiiBr60Radius = 20
+    public static let radiiBr60RadiusType = single
+    public static let radiiBr60Smoothing = 0
+    public static let sizesS1 = 4
+    public static let sizesS10 = 40
+    public static let sizesS2 = 8
+    public static let sizesS3 = 12
+    public static let sizesS4 = 16
+    public static let sizesS5 = 20
+    public static let sizesS6 = 24
+    public static let sizesS7 = 28
+    public static let sizesS8 = 32
+    public static let sizesS9 = 36
 }
